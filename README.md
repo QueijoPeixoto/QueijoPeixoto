@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello there 😉
+
+My name is **Pedro** but you can call me **Peixoto**
 
 <!--
 **QueijoPeixoto/QueijoPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
