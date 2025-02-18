@@ -1,16 +1,25 @@
-### About me
+## About me
 
-Salutations, im Pedro Peoxoto and i like what i like.
+Hello there 👋, im Pedro Peoxoto and i like what i like.
 
-### Education 📚 📜
+## Education 
 
 🎓 Bachelor's Degree and finishing Master's in Electrical and Computer Engineering at University of Beira Interior
 
-### Work Experience
+## Work Experience
 
-| **Position** | **Company** | **Duration** | **Description**               |
-| Car Washer   | SPA Car     | 3 months     | Worked at my uncle's car wash |
-| Electronics Repair Technician | Tomartronica | 1 month | I repaired some computers, appliances, and a very old piano |    
+| **Position** | **Company** | **Duration** | **Description**  |
+|--------------|-------------|--------------|------------------|
+| Car Washer                    | SPA Car      | 3 months | Worked at my uncle's car wash, where i would vacuum, wash and clean cars. |
+| Electronics Repair Technician | Tomartronica | 1 month | I repaired computers, appliances, and a very old analogic piano (as a volunteer). |    
+| Project and Consulting Intern (IEFP) | Toproject | 9 months | I worked on various Energy Performance Certificates, ITED projects, and a electrical installation project.|
+
+I worked at **SPA Car** and **Tomartronica** during my bachelor's degree, and after graduating, i worked for **Toproject** as an intern. At the end of my IEFP internship, I decided to pursue a master's degree, which is what I am doing now.
+
+> [!IMPORTANT]
+> At Toproject i worked with software like **Microsoft Excel** and **ZWCAD** (a AutoCad alternative), and somtimes with **Microsoft Word**.
+
+
 
 <!--
 **QueijoPeixoto/QueijoPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
